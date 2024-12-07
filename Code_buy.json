@@ -22,7 +22,7 @@
   "JUWBKOMLTU6M": {
     "type": "cash",
     "amount": 1000000,
-    "maxUses": 1,
+    "maxUses": 2
   },
   "5WOI1NLKK46X": {
     "type": "badge",
